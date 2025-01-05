@@ -1,0 +1,44 @@
+body
+    {background-color: burlywood;}
+
+a:link
+    {
+        color: maroon;
+        background-color: whitesmoke;
+        text-decoration: none;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 10px;
+    }
+
+a:visited
+    {
+        color: darkslategray;
+        background-color: rosybrown;
+        text-decoration: none;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 10px;
+    }
+
+a:hover
+    {
+        color:rosybrown;
+        background-color:bisque;
+        text-decoration: underline;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        padding: 10px;
+    }
+
+a:active
+    {
+        color: indigo;
+        background-color: thistle;
+        text-decoration: none;
+        padding: 10px;
+    }
+
+h1
+    {
+        color:cadetblue;
+    }
